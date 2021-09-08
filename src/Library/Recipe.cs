@@ -22,10 +22,12 @@ namespace Full_GRASP_And_SOLID.Library
 
         public ArrayList Steps
         {
-            get{
+            get
+            {
                 return this.steps;
             }
-            set{
+            set
+            {
                 this.steps=value;
             }
         } 
